@@ -279,6 +279,7 @@ footer
         right: 30px;
         font-size: 2rem;
         cursor: pointer;
+        z-index: 10;
     }
     .nav-link.show 
     {

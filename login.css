@@ -189,8 +189,6 @@ input:focus
         width: 9rem;
         font-size: x-small;
     } 
-    @media only screen and (max-width: 375px) and (orientation: portrait)
-    {
         .back-to-home-button {
             display: inline-block;
             padding: 5px 10px;
@@ -252,18 +250,7 @@ input:focus
             min-height: 480px;
             height: auto;
         }
-        h1 {
-            width: 20rem;
-            font-weight: bold;
-            margin: 0;
-            text-align: center;
-            font-family: 'Irish Grover', sans-serif;
-            padding: 29px;
-            font-size: x-large;
-        }
     }
-
-}
 
 
 

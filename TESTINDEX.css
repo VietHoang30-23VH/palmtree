@@ -165,6 +165,8 @@ footer
         font-size: 2rem;
         cursor: pointer;
         padding-top:1rem;
+        z-index: 10;
+
     }
     .nav-link.show 
     {
