@@ -151,7 +151,7 @@ nav{
     transform:scale(1.1);
 }
 /* Search */
-@media screen and (max-width:1000px){
+@media screen and (max-width:480px){
     .hamburger{
         display: block;
         position: absolute;
